@@ -1,0 +1,28 @@
+{
+  "name": "webpackPratice",
+  "version": "1.0.0",
+  "description": "作為webpack學習記錄用",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spest3122/webpackPratice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spest3122/webpackPratice/issues"
+  },
+  "homepage": "https://github.com/spest3122/webpackPratice#readme",
+  "devDependencies": {
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
